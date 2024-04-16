@@ -12,7 +12,7 @@ You will also see any lint errors in the console.
 
 ### Interface
 
-![Main PAGE](.Capture.PNG "main page")
+![Main PAGE](./Capture.PNG "main page")
 
 Main page of the app consist of two tables.One shows the class-wise mean, median, mode of“Flavanoids” for the entire dataset and the other shows the class-wise mean, median, mode of "Gamma" for the filtered dataset.
 "Gamma" is a column calculated using formula "Gamma = (Ash \* Hue) / Magnesium".
